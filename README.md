@@ -12,7 +12,7 @@
 <br>
 ![LTC](https://img.shields.io/badge/LTC-MPrdtSn8WmXoMx6qkKbXWoxevxw6H4kyPX-blue?style=flat-square&logo=litecoin)
 <br>
-![TRX](https://img.shields.io/badge/TRX-MPrdtSn8WmXoMx6qkKbXWoxevxw6H4kyPX-blue?style=flat-square&logo=tron)
+![TRX](https://img.shields.io/badge/TRON-MPrdtSn8WmXoMx6qkKbXWoxevxw6H4kyPX-blue?style=flat-square&logo=tron)
 <br>
 ![SOL](https://img.shields.io/badge/SOL-MPrdtSn8WmXoMx6qkKbXWoxevxw6H4kyPX-blue?style=flat-square&logo=solana)
 <br>
