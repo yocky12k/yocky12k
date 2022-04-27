@@ -8,8 +8,5 @@
 <br>
 ![BTC: iewil](https://img.shields.io/badge/BTC-18jswG2t9EZrnHju5dyiYw1yGbkcrTSgJg-blue?style=flat-square&logo=bitcoin)
 <br>
-![Paypal: iewil](https://img.shields.io/badge/Paypal-Purna.iera@gmail.com-blue?style=flat-square&logo=paypal)
-<br>
-![Dana: iewil](https://img.shields.io/badge/Dana-085819008551-blue?style=flat-square&logo=idr)
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=iewilmaestro&theme=algolia" width="350">
 
