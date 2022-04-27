@@ -1,6 +1,5 @@
 <h2> Hello, I'm <b>iewil</b> 👋</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=yocky12k&show_icons=true&theme=algolia" width="350">
-<img align='left' src="https://github.com/iewilmaestro/List/blob/main/404.png" width="140">
 
 [![Youtobe: iewil](https://img.shields.io/youtube/channel/subscribers/UCvBSqRaT6nsPvtl8m6GaQpg?style=social)](https://youtube.com/c/iewil)
 [![Telegram: iewil](https://img.shields.io/badge/Telegram-Iewil-green?style=social&logo=Telegram)](https://t.me/iewil57)
