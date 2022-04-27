@@ -8,5 +8,9 @@
 <br>
 ![DOGE](https://img.shields.io/badge/DOGE-D73qxjHLD8jQpWwkkREYZfxi5ZpTwwJ3hh-blue?style=flat-square&logo=dogecoin)
 <br>
+![BTC](https://img.shields.io/badge/BTC-D73qxjHLD8jQpWwkkREYZfxi5ZpTwwJ3hh-blue?style=flat-square&logo=bitcoin)
+<br>
+![LTC](https://img.shields.io/badge/LTC-D73qxjHLD8jQpWwkkREYZfxi5ZpTwwJ3hh-blue?style=flat-square&logo=litecoin)
+<br>
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yocky12k&theme=algolia" width="350">
 
