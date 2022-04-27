@@ -6,7 +6,7 @@
 <br>
 ![Donation](https://img.shields.io/badge/💰-Donation-blue?style=flat-square)
 <br>
-![DOGE](https://img.shields.io/badge/BTC-18jswG2t9EZrnHju5dyiYw1yGbkcrTSgJg-blue?style=flat-square&logo=bitcoin)
+![DOGE](https://img.shields.io/badge/DOGE-18jswG2t9EZrnHju5dyiYw1yGbkcrTSgJg-blue?style=flat-square&logo=dogecoin)
 <br>
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yocky12k&theme=algolia" width="350">
 
