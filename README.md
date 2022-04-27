@@ -12,9 +12,5 @@
 <br>
 ![LTC](https://img.shields.io/badge/LTC-MPrdtSn8WmXoMx6qkKbXWoxevxw6H4kyPX-blue?style=flat-square&logo=litecoin)
 <br>
-![TRX](https://img.shields.io/badge/TRON-MPrdtSn8WmXoMx6qkKbXWoxevxw6H4kyPX-blue?style=flat-square&logo=tron)
-<br>
-![SOL](https://img.shields.io/badge/SOLANA-MPrdtSn8WmXoMx6qkKbXWoxevxw6H4kyPX-blue?style=flat-square&logo=solana)
-<br>
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yocky12k&theme=algolia" width="350">
 
