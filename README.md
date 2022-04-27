@@ -2,7 +2,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=yocky12k&show_icons=true&theme=algolia" width="350">
 
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCvBSqRaT6nsPvtl8m6GaQpg?style=social)](https://youtube.com/c/PencariRecehan)
-[![Telegram](https://img.shields.io/badge/Telegram-Iewil-green?style=social&logo=Telegram)](https://t.me/yoc12k)
+[![Telegram](https://img.shields.io/badge/Telegram-Pencari Recehan-green?style=social&logo=Telegram)](https://t.me/yoc12k)
 <br>
 ![Donation](https://img.shields.io/badge/💰-Donation-blue?style=flat-square)
 <br>
